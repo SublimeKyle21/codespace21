@@ -1,0 +1,10 @@
+# Requirements for a Gradio Image Generation Application
+
+gradio
+transformers
+diffusers
+torch
+torchvision
+Pillow
+requests
+numpy
